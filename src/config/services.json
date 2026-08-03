@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "coffee-table-book-design",
+    "title": "Coffee Table Book Design",
+    "short": "Elegant layouts that tell stories beautifully.",
+    "icon": "BookOpen"
+  },
+  {
+    "slug": "logo-brand-identity",
+    "title": "Logo & Brand Identity",
+    "short": "Distinct marks and systems that define and elevate.",
+    "icon": "Sparkles"
+  },
+  {
+    "slug": "publishing-editorial",
+    "title": "Publishing & Editorial",
+    "short": "Books, magazines and periodicals crafted end-to-end.",
+    "icon": "Newspaper"
+  },
+  {
+    "slug": "magazine-catalogue",
+    "title": "Magazine & Catalogue",
+    "short": "Editorial systems designed for scale and rhythm.",
+    "icon": "LayoutTemplate"
+  },
+  {
+    "slug": "company-profile",
+    "title": "Company Profile Design",
+    "short": "Corporate profiles that showcase your vision and values.",
+    "icon": "Building2"
+  },
+  {
+    "slug": "advertising-branding",
+    "title": "Advertising & Branding",
+    "short": "Campaigns and identities that drive real results.",
+    "icon": "Megaphone"
+  }
+]

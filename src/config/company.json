@@ -1,0 +1,25 @@
+{
+  "name": "Siam Graphics",
+  "legalName": "Siam Enterprise",
+  "tagline": "Where Creativity Meets Impact",
+  "shortDescription": "A Kolkata-based creative studio crafting premium brand, print and publishing design for the world.",
+  "yearsInBusiness": 10,
+  "address": {
+    "line1": "14/B Barasat Road",
+    "line2": "Nona Chandanpukur, Barrackpore",
+    "city": "Kolkata",
+    "postalCode": "700122",
+    "country": "India"
+  },
+  "phone": "+91 89816 48833",
+  "phoneRaw": "+918981648833",
+  "whatsapp": "918981648833",
+  "email": "siam.enterprise8@gmail.com",
+  "mapsUrl": "https://maps.app.goo.gl/PquXcyfgXifcQEEQ8",
+  "mapsEmbed": "https://www.google.com/maps?q=14%2FB+Barasat+Road+Nona+Chandanpukur+Barrackpore+Kolkata+700122&output=embed",
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100078733891439",
+    "youtube": "https://www.youtube.com/@SIAMGFX-8w",
+    "website": "https://www.siamgfx.com"
+  }
+}
